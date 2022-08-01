@@ -58,3 +58,6 @@ typings/
 
 #vscode
 .vscode
+
+#IDEA
+.idea
